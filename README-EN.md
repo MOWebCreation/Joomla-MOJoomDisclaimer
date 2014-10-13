@@ -9,7 +9,7 @@ modal box or in any page of your website.
 LICENCE and TERMS about downloading and utilisation of the extension : MOJoomDisclaimer. 
 By downloading and using this extension on your Joomla! website, you approve the following licence details : :
 
-This extension is free for personnal an commercial use. In return for this generosity :-).
+This extension is free for personnal an commercial use. In return for this generosity :-),
 I'd recognize you contribute to my reputation by talking about my skills inside your professional networks or
 involving me in case of need.
 
