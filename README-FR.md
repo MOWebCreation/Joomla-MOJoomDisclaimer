@@ -1,7 +1,7 @@
 Joomla-MOJoomDisclaimer
 =======================
 
-A free advansed disclaimer plugin for Joomla! by MO'WebCreation.
+A free advanced disclaimer plugin for Joomla! by MO'WebCreation.
 
 Display warning message with links "Enter in..." or "Leave" in
 modal box or in any page of your website.
@@ -20,8 +20,7 @@ ou en faisant appel à moi en cas de besoins.
     Vous n'êtes pas autorisé à distribuer le package d'installation de cette extension quelqu'en soit le biais
     (téléchargement, mail, supports informatique...), même gratuitement;
     Vous n'êtes pas autorisé à distribuer une version modifiée de cette extension quelqu'en soit le biais
-    (téléchargement, mail, supports informatique...), même gratuitement,
-    sauf si je vous en ai donné l'autorisation;
+    (téléchargement, mail, supports informatique...), même gratuitement, sauf si je vous en ai donné l'autorisation;
 
 Mickaël Outhier
 Mo'WebCreation - Mickaël Gerard André Outhier
