@@ -19,6 +19,9 @@ please use the github repository for ask your issues, url : https://github.com/M
 NOTICE : I need translator for this extension.
 You like this free extension ? you're able to translate and you wanna contribute ? Please contact me.
 
+HOW TO DOWNLOAD : The extension is currently pending for approval in the Joomla Extension Directory.
+As soon as the installer is available for download, I'll paste the link here.
+
 LICENCE : you can find the license and the terms in the file "README-EN.txt" located in the installer package.
 
 
@@ -36,5 +39,7 @@ SUPPORT :
 merci d'utiliser le référentiel Github pour poser vos questions : https://github.com/MOWebCreation/Joomla-MOJoomDisclaimer
 
 MESSAGE : Je recherche des traducteurs pour cette extension. Si vous appréciez cette extension gratuite et que vous souhaitez collaborer en tant que traducteur, merci de me contacter. 
+
+Où TELECHARGER L'EXTENSION ? : l'extension est en cours d'approbation au niveau du Joomla Etension Directory. Dès que le package d'installation sera disponible je collerai le lien ici.
 
 LICENCE : vous pouvez prendre connaissance de la licence et des conditions d'utilisation qui se trouve dans le fichier "README-FR.txt" présent dans le package d'installation.
